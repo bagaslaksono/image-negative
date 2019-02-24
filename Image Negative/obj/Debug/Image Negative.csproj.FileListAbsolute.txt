@@ -1,0 +1,10 @@
+C:\Users\USER\source\repos\Image Negative\Image Negative\bin\Debug\Image Negative.exe.config
+C:\Users\USER\source\repos\Image Negative\Image Negative\bin\Debug\Image Negative.exe
+C:\Users\USER\source\repos\Image Negative\Image Negative\bin\Debug\Image Negative.pdb
+C:\Users\USER\source\repos\Image Negative\Image Negative\obj\Debug\Image Negative.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\Image Negative\Image Negative\obj\Debug\Image_Negative.Form1.resources
+C:\Users\USER\source\repos\Image Negative\Image Negative\obj\Debug\Image_Negative.Properties.Resources.resources
+C:\Users\USER\source\repos\Image Negative\Image Negative\obj\Debug\Image Negative.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\Image Negative\Image Negative\obj\Debug\Image Negative.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Image Negative\Image Negative\obj\Debug\Image Negative.exe
+C:\Users\USER\source\repos\Image Negative\Image Negative\obj\Debug\Image Negative.pdb
